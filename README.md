@@ -91,8 +91,7 @@
                             <span id="course-name">Languages Known:</span>English,Hindi,Marathi
                         </li>
                        
-                    </ul>
-                    </p>
+                    
                     <h3>Other Information</h3>
                     <p>
                     <ul>
@@ -114,7 +113,4 @@
                         knowledge and belief.</p>
     </div>
     <div id="footer">
-</div>
-</body>
 
-</html>
