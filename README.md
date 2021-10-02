@@ -89,7 +89,7 @@
                             complete ownership of work.
                         <li>
                             <span id="course-name">Languages Known:</span>English,Hindi,Marathi
-                        </li>
+                        </li></ul></p>
                        
                     
                     <h3>Other Information</h3>
@@ -112,5 +112,7 @@
                         I hereby declare that the details furnished above are true and correct to the best of my
                         knowledge and belief.</p>
     </div>
-    <div id="footer">
+    <div id="footer"></div>
+    </body>
+    </html>
 
