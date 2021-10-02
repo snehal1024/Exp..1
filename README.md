@@ -1,5 +1,5 @@
 # Exp..1
-<!Doctype html>
+<!DOCTYPE html>
 
 <head>
 
