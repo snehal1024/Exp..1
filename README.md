@@ -1,5 +1,5 @@
 # Exp..1
-<html>
+<!Doctype html>
 
 <head>
 
@@ -68,7 +68,7 @@
                 <span id="course-name">C for Beginners
             <li>
                 <span id="course-name">Core Java
-             
+           </ul> 
                     <h3>Technical Skills</h3>
                     <p>
                     <ul>
@@ -113,7 +113,8 @@
                         I hereby declare that the details furnished above are true and correct to the best of my
                         knowledge and belief.</p>
     </div>
-    <div id="footer"></div>
+    <div id="footer">
+</div>
 </body>
 
 </html>
