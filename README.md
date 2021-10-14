@@ -114,7 +114,7 @@
           Email: <input type="email" name="Email" placeholder="Enter email-id" >
         </div>
         <div class="form-control">
-          Password: <input type="password" minlength="8" title="Must contain at least  one uppercase and lowercase letter, and at least 8 or more characters and one special character" pattern="(?=^.{8,}$)((?=.\W+))(?![.\n])(?=.[A-Z])(?=.[a-z]).$"" name=password1 placeholder="Enter Password" id="password" required>
+          Password: <input type="password" minlength="8" title="Must contain at least  one uppercase and lowercase letter, and at least 8 or more characters and one special character" pattern="(?=^.{8,}$)((?=.\W+))(?![.\n])(?=.[A-Z])(?=.[a-z]).$" name=password1 placeholder="Enter Password" id="password" required>
           
         </div>
         <div class="form-control">
@@ -140,11 +140,11 @@
 </select><br>
   <br><b>Languages Known</b><br> 
   <p id="text" style="display:none">C++</p>
-  <input type="checkbox" id="first">C++</input><br>  
+  <input type="checkbox" id="first">C++<br>  
 <p id="text1" style="display:none">Java</p>
-<input type="checkbox" id="second">Java</input><br>   
+<input type="checkbox" id="second">Java<br>   
 <p id="text2" style="display:none">Python</p>
-<input type="checkbox" id="third">Python</input><br>
+<input type="checkbox" id="third">Python<br>
         
 
           
