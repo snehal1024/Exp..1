@@ -152,8 +152,5 @@
         
         <input type="submit" style="background-color:grey" name="Signup" onclick="display();">
       </form>
-    </div>
-
-  </body>
-</html>
+   
 
